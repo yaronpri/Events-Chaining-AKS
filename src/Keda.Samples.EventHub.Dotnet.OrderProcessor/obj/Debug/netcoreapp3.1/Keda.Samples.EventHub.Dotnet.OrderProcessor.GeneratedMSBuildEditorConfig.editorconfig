@@ -1,0 +1,3 @@
+is_global = true
+build_property.RootNamespace = Keda.Samples.EventHub.Dotnet.OrderProcessor
+build_property.ProjectDir = /Users/yaronprigal/sources/github/Events-Chaining-AKS/src/Keda.Samples.EventHub.Dotnet.OrderProcessor/

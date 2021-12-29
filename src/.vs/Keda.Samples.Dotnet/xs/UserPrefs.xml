@@ -1,0 +1,31 @@
+﻿<Properties StartupConfiguration="{FF49EDEA-8A38-4861-845E-2689CB8C3F12}|Default">
+  <MonoDevelop.Ide.ItemProperties.Keda.Samples.Dotnet.OrderProcessor PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Keda.Samples.Dotnet.OrderProcessor/QueueWorker.cs">
+    <Files>
+      <File FileName="Keda.Samples.Dotnet.OrderProcessor/ServiceBusClientFactory.cs" Line="8" Column="28" />
+      <File FileName="Keda.Samples.Dotnet.OrderProcessor/QueueWorker.cs" Line="35" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Keda.Samples.Dotnet" expanded="True">
+            <Node name="Keda.Samples.Docker" expanded="True">
+              <Node name="docker-compose.yml" expanded="True" />
+            </Node>
+            <Node name="Keda.Samples.Dotnet.Contracts" expanded="True" />
+            <Node name="Keda.Samples.Dotnet.OrderProcessor" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Keda.Samples.DotNet.Web PreferredExecutionTarget="/Applications/Microsoft Edge.app" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/yaronprigal/sources/github/Events-Chaining-AKS/src/Keda.Samples.DotNet.Web/Startup.cs" relfile="Keda.Samples.DotNet.Web/Startup.cs" line="36" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

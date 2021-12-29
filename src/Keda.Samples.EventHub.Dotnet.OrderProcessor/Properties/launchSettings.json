@@ -1,0 +1,10 @@
+﻿{
+  "profiles": {
+    "Keda.Samples.EventHub.Dotnet.OrderProcessor": {
+      "commandName": "Project",
+      "environmentVariables": {
+        "DOTNET_ENVIRONMENT": "Development"
+      }
+    }
+  }
+}
